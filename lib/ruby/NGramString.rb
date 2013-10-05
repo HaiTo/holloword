@@ -2,9 +2,9 @@
 
 #author : HaiTo
 #package : holloword.lib.ruby
-#how : s = NgramString.new(str)
-# => s.parse_n_gram(n)
-#how2 : s = NGramString::new(str)::parse_n_gram(n) 
+#how2 
+# require "holloword/lib/ruby/NGramString.rb"
+# s = NGramString::new(str)::parse_n_gram(n) 
 
 class NGramString < String
 	def parse_n_gram n
