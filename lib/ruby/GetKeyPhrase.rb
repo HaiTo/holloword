@@ -17,6 +17,6 @@ class GetKeyPhrase
 end
 ### test
 =begin
-gkp = GetKeyPhrase.new("dj0zaiZpPXlka1lNaHBIcWlwdSZzPWNvbnN1bWVyc2VjcmV0Jng9ODc-")
+gkp = GetKeyPhrase(AppId)
 p gkp.get("我々は宇宙人")
 =end
