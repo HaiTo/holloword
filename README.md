@@ -1,9 +1,7 @@
-holloword
+holloword 
 =========
 
-MyLibrarys.
-To ruby.
-and any.... e.g. Python?
+holloword は HaiTo の別名義ですん
 
 ====
 package : holloword.com.lib
